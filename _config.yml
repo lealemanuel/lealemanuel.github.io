@@ -10,7 +10,7 @@ title: Un blog
 
 # Link to avatar in the navbar (/assets/images/avatar.png). Leave empty if no logo desired. Two avatars for light and dark mode.
 # Avatar for light mode site
-lightavatar: /assets/images/https://marzo22.com/marzo22icon-comprimido.png
+lightavatar: /assets/images/marzo22icon-comprimido.png
 # Avatar for dark mode site
 darkavatar: /assets/images/dark_bauhaus_logo.png
 
@@ -33,7 +33,7 @@ baseurl: ""
 author: Emanuel
 
 # URL to a site-wide logo (e.g., /assets/your-company-logo.png)
-logo: /assets/images/light_bauhaus_logo.png
+logo: /assets/images/marzo22icon-comprimido.png
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
